@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LexiFind · Word finder for Scrabble, Words With Friends & Wordle</title>
+  <meta name="description" content="Find playable words by prefix, suffix or pattern. Filter by length, sort by commonness, add Roman numerals or given names.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230f766e'/%3E%3Ctext x='16' y='23' font-size='19' font-family='Arial' font-weight='700' text-anchor='middle' fill='white'%3EL%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">L</span>
+      <div>
+        <h1>LexiFind</h1>
+        <p class="tagline">Playable word finder for Scrabble, Words With Friends &amp; Wordle</p>
+      </div>
+    </div>
+    <p class="corpus-chip" id="corpusChip" aria-live="polite">Loading corpus…</p>
+  </header>
+
+  <main class="layout">
+    <section class="panel controls" aria-label="Search and filters">
+      <form id="searchForm" autocomplete="off" role="search">
+        <label class="field-label" for="q">Starts with</label>
+        <div class="search-box">
+          <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <input id="q" name="q" type="search" inputmode="text" autocapitalize="off" spellcheck="false"
+                 placeholder="e.g. qu" maxlength="30" aria-describedby="qhelp">
+          <kbd class="hotkey" aria-hidden="true">/</kbd>
+        </div>
+
+        <div class="pattern">
+          <div class="field">
+            <label for="qc" class="field-label">Contains</label>
+            <input id="qc" type="search" class="mini" placeholder="e.g. ough"
+                   maxlength="30" autocapitalize="off" spellcheck="false">
+          </div>
+          <div class="field">
+            <label for="qs" class="field-label">Ends with</label>
+            <input id="qs" type="search" class="mini" placeholder="e.g. ing"
+                   maxlength="30" autocapitalize="off" spellcheck="false">
+          </div>
+        </div>
+        <p id="qhelp" class="help">Combine any of the three: a word must match all the letters you enter.</p>
+
+        <div class="row">
+          <div class="field">
+            <label for="lenMode" class="field-label">Word length</label>
+            <select id="lenMode">
+              <option value="any">Any length</option>
+              <option value="exact">Exact</option>
+              <option value="range">Range</option>
+            </select>
+          </div>
+          <div class="field len-inputs" id="lenInputs" hidden>
+            <div class="len-pair">
+              <div>
+                <label for="lenA" class="field-label" id="lenALabel">Length</label>
+                <input id="lenA" type="number" min="1" max="30" value="5" inputmode="numeric">
+              </div>
+              <div id="lenBWrap" hidden>
+                <label for="lenB" class="field-label">Max</label>
+                <input id="lenB" type="number" min="1" max="30" value="7" inputmode="numeric">
+              </div>
+            </div>
+          </div>
+          <div class="field wide">
+            <label for="sort" class="field-label">Sort by</label>
+            <select id="sort">
+              <option value="common">Common &amp; playable first</option>
+              <option value="az">Alphabetical A–Z</option>
+              <option value="za">Alphabetical Z–A</option>
+              <option value="len-asc">Length: shortest first</option>
+              <option value="len-desc">Length: longest first</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="limit" class="field-label">Show</label>
+            <select id="limit">
+              <option value="30" selected>30 results</option>
+              <option value="100">100 results</option>
+              <option value="0">All</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="toggles">
+          <label class="toggle">
+            <input type="checkbox" id="romanToggle">
+            <span class="switch" aria-hidden="true"></span>
+            <span><strong>Roman numerals</strong><small>I to MMMCMXCIX, with value badges</small></span>
+          </label>
+          <label class="toggle">
+            <input type="checkbox" id="nameToggle">
+            <span class="switch" aria-hidden="true"></span>
+            <span><strong>Playable human names</strong><small>Given names that are valid dictionary words</small></span>
+          </label>
+        </div>
+
+        <div class="actions">
+          <button type="button" class="btn ghost" id="resetBtn">Reset</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="results" aria-label="Results">
+      <div class="results-head">
+        <p id="summary" class="summary" aria-live="polite">&nbsp;</p>
+        <p id="hint" class="hint"></p>
+      </div>
+      <div id="grid" class="grid" aria-busy="true"></div>
+      <div class="more-wrap"><button id="moreBtn" class="btn" hidden>Show more</button></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p id="footStats"></p>
+    <p>Definitions: WordNet 3.0 (offline) with Free Dictionary API fallback. Links open Merriam-Webster. LexiFind is not affiliated with Scrabble, Hasbro, Zynga, Merriam-Webster or Wordle.</p>
+  </footer>
+
+  <script src="app.js" type="module"></script>
+</body>
+</html>

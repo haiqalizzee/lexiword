@@ -1,0 +1,17 @@
+{
+  "enable_entries_lowercase_2plus": 172823,
+  "dropped_proper_noun": 50482,
+  "no_wordnet_entry": 67760,
+  "dropped_scientific_jargon": 1061,
+  "roman_numerals_added": 3994,
+  "roman_also_dictionary_word": 5,
+  "corpus_parts": {
+    "words-1.txt": 70493,
+    "words-2.txt": 54781
+  },
+  "playable_entries": 125274,
+  "with_definition": 57514,
+  "name_flagged": 155,
+  "name_only": 46,
+  "roman_only": 3994
+}

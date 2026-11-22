@@ -1,0 +1,921 @@
+v	Roman numeral for 5.
+vac	n: Informal term for vacation
+vacancy	n: Being unoccupied	n: An empty area or space
+vacant	adj: Void of thought or knowledge	adj: Without an occupant or incumbent
+vacantly	adv: In a vacant manner
+vacate	v: Leave (a job, post, or position) voluntarily	v: Leave behind empty
+vacation	n: Leisure time away from work devoted to rest or pleasure	n: The act of making something legally void
+vacationer	n: Someone on vacation
+vacationing	n: The act of taking a vacation
+vacationist	n: Someone on vacation
+vaccina	n: A local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to…
+vaccinate	v: Perform vaccinations or produce immunity in by inoculation
+vaccinated	adj: Having been rendered unsusceptible to a disease
+vaccinating	n: The act of protecting against disease by introducing a vaccine into the body to induce immunity
+vaccination	n: Taking a vaccine as a precaution against contracting a disease	n: The scar left following inoculation with a vaccine
+vaccinator	n: A medical practitioner who inoculates people against diseases
+vaccine	n: Immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the…
+vaccinee	n: A patient who has been vaccinated
+vaccinia	n: A local infection induced in humans by inoculation with the virus causing cowpox in order to confer resistance to…	n: A viral disease of cattle causing a mild skin disease affecting the udder
+vacillate	v: Be undecided about something	v: Move or sway in a rising and falling or wavelike pattern
+vacillating	adj: Uncertain in purpose or action
+vacillation	n: Indecision in speech or action	n: Changing location by moving back and forth
+vacillator	n: One who hesitates (usually out of fear)
+vacuity	n: The absence of matter	n: A region that is devoid of matter
+vacuolate	adj: Formed into or containing one or more vacuoles or small membrane-bound cavities within a cell
+vacuolated	adj: Formed into or containing one or more vacuoles or small membrane-bound cavities within a cell
+vacuolation	n: The state of having become filled with vacuoles
+vacuole	n: A tiny cavity filled with fluid in the cytoplasm of a cell
+vacuous	adj: Devoid of intelligence	adj: Devoid of significance or point
+vacuously	adv: In a vacuous manner
+vacuousness	n: Indicative of or marked by mental vacuity and an absence of ideas
+vacuum	n: The absence of matter	n: An empty area or space
+vagabond	n: Anything that resembles a vagabond in having no fixed place	n: A wanderer who has no established residence or visible means of support
+vagabondage	n: Travelling about without any clear destination
+vagal	adj: Of or relating to the vagus nerve
+vagary	n: An unexpected and inexplicable change in something (in a situation or a person's behavior, etc.)
+vagile	adj: Having freedom to move about
+vagina	n: The lower part of the female reproductive tract
+vaginal	adj: Of or relating to the vagina
+vaginismus	n: Muscular contraction that causes the vagina to close
+vaginitis	n: Inflammation of the vagina (usually associated with candidiasis)
+vagrancy	n: The state of wandering from place to place
+vagrant	n: A wanderer who has no established residence or visible means of support	adj: Continually changing especially as from one abode or occupation to another
+vague	adj: Not clearly understood or expressed	adj: Not precisely limited, determined, or distinguished
+vaguely	adv: In a vague way
+vagueness	n: Unclearness by virtue of being poorly expressed or not coherent in meaning	n: Indistinctness of shape or character
+vagus	n: A mixed nerve that supplies the pharynx and larynx and lungs and heart and esophagus and stomach and most of the…
+vain	adj: Characteristic of false pride	adj: Unproductive of success
+vainglorious	adj: Feeling self-importance
+vainglory	n: Outspoken conceit
+vainly	adv: To no avail
+valance	n: A decorative framework to conceal curtain fixtures at the top of a window casing
+vale	n: A long depression in the surface of the land that usually contains a river
+valediction	n: A farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)	n: The act of saying farewell
+valedictorian	n: The student with the best grades who usually delivers the valedictory address at commencement
+valedictory	n: A farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)	adj: Of or relating to an occasion or expression of farewell
+valence	n: (biology) a relative capacity to unite or react or interact as with antigens or a biological substrate	n: (chemistry) a property of atoms or radicals
+valency	n: The phenomenon of forming chemical bonds	n: (biology) a relative capacity to unite or react or interact as with antigens or a biological substrate
+valentine	n: A sweetheart chosen to receive a greeting on Saint Valentine's Day	n: A card sent or given (as to a sweetheart) on Saint Valentine's Day
+valerian	n: A plant of the genus Valeriana having lobed or dissected leaves and cymose white or pink flowers
+valet	n: A manservant who acts as a personal attendant to his employer	v: Serve as a personal attendant to
+valetudinarian	n: Weak or sickly person especially one morbidly concerned with his or her health	adj: Of or relating to or characteristic of a person who is a valetudinarian
+valetudinarianism	n: The state of being weak in health or body (especially from old age)
+valetudinary	adj: Of or relating to or characteristic of a person who is a valetudinarian
+valgus	n: A deformity in which there is an abnormal displacement of part of a limb away from the midline of the body
+valiance	n: The qualities of a hero or heroine
+valiancy	n: The qualities of a hero or heroine
+valiant	adj: Having or showing valor
+valiantly	adv: With valor
+valid	adj: Well grounded in logic or truth or having legal force	adj: Still legally acceptable
+validate	v: Declare or make legally valid	v: Prove valid
+validated	adj: Declared or made legally valid
+validating	adj: Serving to support or corroborate
+validation	n: The act of validating	n: The cognitive process of establishing a valid proof
+validity	n: The quality of being valid and rigorous	n: The quality of having legal force or effectiveness
+validly	adv: With validity
+valise	n: A small overnight bag for short trips
+vallecula	n: (anatomy) any furrow or channel on a bodily structure or part
+valley	n: A long depression in the surface of the land that usually contains a river
+valor	n: The qualities of a hero or heroine
+valorous	adj: Having or showing valor
+valorously	adv: With valor
+valour	n: The qualities of a hero or heroine
+valse	n: A ballroom dance in triple time with a strong accent on the first beat
+valuable	n: Something of value	adj: Having great material or monetary value especially for use or exchange
+valuableness	n: The positive quality of being precious and beyond value
+valuate	v: Evaluate or estimate the nature, quality, ability, extent, or significance of
+valuation	n: An appraisal of the value of something	n: Assessed price
+valuator	n: One who estimates officially the worth or value or quality of things
+value	n: A numerical quantity measured or assigned or computed	n: The quality (positive or negative) that renders something desirable or valuable
+valued	adj: (usually used in combination) having value of a specified kind	adj: Held in great esteem for admirable qualities especially of an intrinsic nature
+valueless	adj: Of no value
+valuelessness	n: Having none of the properties that endow something with value
+valuer	n: Someone who assesses the monetary worth of possessions
+values	n: Beliefs of a person or social group in which they have an emotional investment (either for or against something)
+valve	n: A structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it	n: Device in a brass wind instrument for varying the length of the air column to alter the pitch of a tone
+valved	adj: (of brass instruments) having valves
+valvelet	n: A small valve
+valvula	n: A small valve
+valvular	adj: Relating to or operating by means of valves
+valvule	n: A small valve
+valvulitis	n: Inflammation of a valve (especially of a cardiac valve as a consequence of rheumatic fever)
+vambrace	n: Cannon of plate armor protecting the forearm
+vamoose	v: Leave suddenly
+vamp	n: A seductive woman who uses her sex appeal to exploit men	n: An improvised musical accompaniment
+vamper	n: A seductive woman who uses her sex appeal to exploit men
+vampire	n: (folklore) a corpse that rises at night to drink the blood of the living
+vampirism	n: Belief in the existence of vampires	n: The actions or practices of a vampire
+van	n: Any creative group active in the innovation and application of new concepts and techniques in a given field…	n: The leading units moving at the head of an army
+vanda	n: Any of numerous showy orchids of the genus Vanda having many large flowers in loose racemes
+vandal	n: Someone who willfully destroys or defaces property	n: A member of the Germanic people who overran Gaul and Spain and North Africa and sacked Rome in 455
+vandalise	v: Destroy wantonly, as through acts of vandalism
+vandalism	n: Willful wanton and malicious destruction of the property of others
+vandalize	v: Destroy wantonly, as through acts of vandalism
+vandyke	n: A short pointed beard (named after the artist Anthony Vandyke)
+vane	n: Mechanical device attached to an elevated structure	n: A fin attached to the tail of an arrow, bomb or missile in order to stabilize or guide it
+vaned	adj: (of an arrow) equipped with feathers
+vanguard	n: The leading units moving at the head of an army	n: Any creative group active in the innovation and application of new concepts and techniques in a given field…
+vanilla	n: Any of numerous climbing plants of the genus Vanilla having fleshy leaves and clusters of large waxy highly fragrant…	n: A flavoring prepared from vanilla beans macerated in alcohol (or imitating vanilla beans)
+vanish	v: Get lost, as without warning or explanation	v: Become invisible or unnoticeable
+vanished	adj: Having passed out of existence
+vanisher	n: A person who disappears
+vanishing	n: A sudden or mysterious disappearance	n: A sudden disappearance from sight
+vanishingly	adv: So as to disappear or approach zero
+vanity	n: Feelings of excessive pride	n: The quality of being valueless or futile
+vanquish	v: Come out better in a competition, race, or conflict
+vanquishable	adj: Susceptible to being defeated
+vanquisher	n: Someone who is victorious by force of arms
+vantage	n: Place or situation affording some advantage (especially a comprehensive view or commanding perspective)	n: The quality of having a superior or more favorable position
+vapid	adj: Lacking taste or flavor or tang	adj: Lacking significance or liveliness or spirit or zest
+vapidity	n: The quality of being vapid and unsophisticated
+vapidly	adv: In a vapid manner
+vapidness	n: The quality of being vapid and unsophisticated
+vapor	n: A visible suspension in the air of particles of some substance	n: The process of becoming a vapor
+vaporing	n: An instance of boastful talk
+vaporise	v: Cause to change into a vapor	v: Change into a vapor
+vaporish	adj: Resembling or characteristic of vapor
+vaporizable	adj: (used of substances) capable of being volatilized
+vaporization	n: Annihilation by vaporizing something	n: The process of becoming a vapor
+vaporize	v: Kill with or as if with a burst of gunfire or electric current or as if by shooting	v: Turn into gas
+vaporized	adj: Converted into a gas or vapor
+vaporizer	n: A device that puts out a substance in the form of a vapor (especially for medicinal inhalation)
+vaporous	adj: So thin as to transmit light	adj: Resembling or characteristic of vapor
+vaporousness	n: Cloudiness resulting from haze or mist or vapor
+vapors	n: A state of depression
+vapour	n: A visible suspension in the air of particles of some substance	n: The process of becoming a vapor
+vapours	n: A state of depression
+vaquero	n: Local names for a cowboy (`vaquero' is used especially in southwestern and central Texas and `buckaroo' is used…
+var	n: A unit of electrical power in an AC circuit equal to the power dissipated when 1 volt produces a current of 1 ampere
+vara	n: A Spanish unit of length (about a yard) having different values in different localities
+variability	n: The quality of being subject to variation	n: The quality of being uneven and lacking uniformity
+variable	n: Something that is likely to vary	n: A quantity that can assume any of a set of values
+variableness	n: The quality of being subject to variation
+variably	adv: With variation
+variance	n: An event that departs from expectations	n: Discord that splits a group
+variant	n: An event that departs from expectations	n: (biology) a group of organisms within a species that differ in trivial ways from similar groups
+variate	n: A variable quantity that is random
+variation	n: An instance of change	n: An activity that varies from a norm or standard
+varicella	n: An acute contagious disease caused by herpes varicella zoster virus
+varicocele	n: Dilatation of the veins associated with the spermatic cord in the testes
+varicolored	adj: Having a variety of colors	adj: Having sections or patches colored differently and usually brightly
+varicose	adj: Abnormally swollen or knotty
+varicosity	n: Varix or varicose condition in which a vein is swollen and tortuous
+varied	adj: Characterized by variety	adj: Widely different
+variegate	v: Change the appearance of, especially by marking with different colors	v: Make something more diverse and varied
+variegated	adj: Having a variety of colors
+variegation	n: Variability in coloration	n: The act of introducing variety (especially in investments or in the variety of goods and services offered)
+varietal	n: A wine made principally from one grape and carrying the name of that grape
+variety	n: A collection containing a variety of sorts of things	n: Noticeable heterogeneity
+variform	adj: Varying in form or shape
+variola	n: A highly contagious viral disease characterized by fever and weakness and skin eruption with pustules that form scabs…
+variolar	adj: Relating to small pox
+variometer	n: A measuring instrument for measuring variations in a magnetic field
+variorum	n: An edition containing various versions of a text or notes by various scholars or editors
+various	adj: Of many different kinds purposefully arranged but lacking any uniformity	adj: Considered individually
+variously	adv: In diverse ways
+varix	n: Abnormally enlarged or twisted blood vessel or lymphatic vessel
+varlet	n: A deceitful and unreliable scoundrel	n: In medieval times a youth acting as a knight's attendant as the first stage in training for knighthood
+varment	n: Any usually predatory wild animal considered undesirable
+varmint	n: An irritating or obnoxious person	n: Any usually predatory wild animal considered undesirable
+varna	n: (Hinduism) the name for the original social division of Vedic people into four groups (which are subdivided into…
+varnish	n: A coating that provides a hard, lustrous, transparent finish to a surface	v: Cover with varnish
+varnished	adj: Having a coating of stain or varnish
+varnisher	n: Someone who applies a finishing coat of varnish
+varsity	n: A British abbreviation of `university'	n: A team representing a college or university
+varus	n: A deformity in which part of a limb is turned inward to an abnormal degree
+vary	v: Become different in some particular way, without permanently losing one's or its former characteristics or essence	v: Be at variance with
+varying	adj: Marked by diversity or difference
+vas	n: A tube in which a body fluid circulates
+vascular	adj: Of or relating to or having vessels that conduct and circulate fluids
+vascularity	n: The property being vascular
+vascularization	n: The organic process whereby body tissue becomes vascular and develops capillaries
+vasculitis	n: Inflammation of a blood vessel
+vase	n: An open jar of glass or porcelain used as an ornament or to hold flowers
+vasectomize	v: Remove the vas deferens
+vasectomy	n: Surgical procedure that removes all or part of the vas deferens (usually as a means of sterilization)
+vasiform	adj: Constituting a tube
+vasoconstriction	n: Decrease in the diameter of blood vessels
+vasoconstrictive	n: Any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or…
+vasoconstrictor	n: Any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or…
+vasodilation	n: Dilation of blood vessels (especially the arteries)
+vasodilator	n: A drug that causes dilation of blood vessels
+vasomotor	adj: Relating to the nerves and muscles that cause the blood vessels to constrict or dilate
+vasopressin	n: Hormone secreted by the posterior pituitary gland (trade name Pitressin) and also by nerve endings in the hypothalamus
+vasopressor	n: Any agent that produces vasoconstriction and a rise in blood pressure (usually understood as increased arterial…
+vasotomy	n: Surgical incision into or division of the vas deferens
+vassal	n: A person holding a fief
+vassalage	n: The state of a serf
+vast	adj: Unusually great in size or amount or degree or especially extent or scope
+vastly	adv: To an exceedingly great extent or degree
+vastness	n: Unusual largeness in size or extent or number
+vat	n: A tax levied on the difference between a commodity's price before taxes and its cost of production	n: A large open vessel for holding or storing liquids
+vatic	adj: Resembling or characteristic of a prophet or prophecy
+vatical	adj: Resembling or characteristic of a prophet or prophecy
+vaticinate	v: Predict or reveal through, or as if through, divine inspiration	v: Foretell through or as if through the power of prophecy
+vaticination	n: Knowledge of the future (usually said to be obtained from a divine source)
+vaticinator	n: An authoritative person who divines the future
+vaudeville	n: A variety show with songs and comic acts etc.
+vaudevillian	n: A performer who works in vaudeville
+vault	n: A burial chamber (usually underground)	n: A strongroom or compartment (often made of steel) for safekeeping of valuables
+vaulted	adj: Having a hemispherical vault or dome
+vaulter	n: An athlete who jumps over a high crossbar with the aid of a long pole
+vaulting	n: (architecture) a vaulted structure	n: A light leap by a horse in which both hind legs leave the ground before the forelegs come down
+vaunt	n: Extravagant self-praise	v: Show off
+vaunter	n: A very boastful and talkative person
+vauntingly	adv: In a boastful manner
+veal	n: Meat from a calf
+vector	n: A variable quantity that can be resolved into components	n: A straight line segment whose length is magnitude and whose orientation in space is direction
+vedalia	n: Native to Australia
+veer	v: Turn sharply	v: Shift to a clockwise direction
+veering	n: The act of turning aside suddenly
+veery	n: Tawny brown North American thrush noted for its song
+veg	n: Edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant
+vegan	n: A strict vegetarian
+vegetable	n: Edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant	n: Any of various herbaceous plants cultivated for an edible part such as the fruit or the root of the beet or the leaf…
+vegetal	adj: Composed of vegetation or plants	adj: (of reproduction) characterized by asexual processes
+vegetarian	n: Eater of fruits and grains and nuts
+vegetarianism	n: A diet excluding all meat and fish
+vegetate	v: Lead a passive existence without using one's body or mind	v: Establish vegetation on
+vegetation	n: All the plant life in a particular region or period	n: The process of growth in plants
+vegetational	adj: Composed of vegetation or plants
+vegetative	adj: Of or relating to an activity that is passive and monotonous	adj: Composed of vegetation or plants
+vegetive	adj: Of or relating to an activity that is passive and monotonous
+veggie	n: Edible seeds or roots or stems or leaves or bulbs or tubers or nonsweet fruits of any of numerous herbaceous plant
+vehemence	n: Intensity or forcefulness of expression	n: The property of being wild or turbulent
+vehement	adj: Marked by extreme intensity of emotions or convictions	adj: Characterized by great force or energy
+vehemently	adv: In a vehement manner
+vehicle	n: A conveyance that transports people or objects	n: A medium for the expression or achievement of something
+vehicular	adj: Of or relating to or intended for (motor) vehicles
+veil	n: A garment that covers the head and face	n: A membranous covering attached to the immature fruiting body of certain mushrooms
+veiled	adj: Having or as if having a veil or concealing cover	adj: Muted or unclear
+veiling	n: A net of transparent fabric with a loose open weave
+vein	n: A blood vessel that carries blood from the capillaries toward the heart	n: A distinctive style or manner
+veinal	adj: Relating to the veins of plants
+veined	adj: Having or showing markings that resemble veins
+veinlike	adj: Having or showing markings that resemble veins
+velar	n: A consonant produced with the back of the tongue touching or near the soft palate	adj: Of or relating to the velum
+veld	n: Elevated open grassland in southern Africa
+veldt	n: Elevated open grassland in southern Africa
+velleity	n: A mere wish, unaccompanied by effort to obtain	n: Volition in its weakest form
+vellum	n: A heavy creamy-colored paper resembling parchment	n: Fine parchment prepared from the skin of a young animal e.g. a calf or lamb
+velocipede	n: Any of several early bicycles with pedals on the front wheel	n: A vehicle with three wheels that is moved by foot pedals
+velocity	n: Distance travelled per unit time
+velodrome	n: A banked oval track for bicycle or motorcycle racing
+velour	n: Heavy fabric that resembles velvet
+velours	n: Heavy fabric that resembles velvet	n: Heavy fabric that resembles velvet
+veloute	n: White sauce made with stock instead of milk
+velum	n: A membranous covering attached to the immature fruiting body of certain mushrooms	n: A muscular flap that closes off the nasopharynx during swallowing or speaking
+velvet	n: A silky densely piled fabric with a plain back	adj: Smooth and soft to sight or hearing or touch or taste
+velveteen	n: A usually cotton fabric with a short pile imitating velvet
+velvety	adj: Smooth and soft to sight or hearing or touch or taste	adj: Resembling velvet in having a smooth soft surface
+vena	n: A blood vessel that carries blood from the capillaries toward the heart
+venal	adj: Capable of being corrupted
+venality	n: Prostitution of talents or offices or services for reward
+venally	adv: In a corrupt and deceitful manner
+venation	n: (botany) the arrangement of veins in a leaf	n: (zoology) the system of venous blood vessels in an animal
+vend	v: Sell or offer for sale from place to place
+vendable	adj: Fit to be offered for sale
+vendee	n: A person who buys
+vender	n: Someone who promotes or exchanges goods or services for money
+vendetta	n: A feud in which members of the opposing parties murder each other
+vendible	adj: Fit to be offered for sale
+vending	n: The act of selling goods for a living
+vendor	n: Someone who promotes or exchanges goods or services for money
+vendue	n: The public sale of something to the highest bidder
+veneer	n: Coating consisting of a thin layer of superior wood glued to a base of inferior wood	n: An ornamental coating to a building
+veneering	n: Coating consisting of a thin layer of superior wood glued to a base of inferior wood	n: The act of applying veneer
+venerability	n: The quality of deserving veneration
+venerable	adj: Impressive by reason of age	adj: Profoundly honored
+venerableness	n: The quality of deserving veneration
+venerate	v: Regard with feelings of respect and reverence
+venerating	adj: Feeling or manifesting veneration
+veneration	n: A feeling of profound respect for someone or something	n: Religious zeal
+venerator	n: Someone who regards with deep respect or reverence
+venereal	adj: Of or relating to the external sex organs
+venesection	n: Surgical incision into a vein
+venetian	n: A resident of Venice	adj: Of or relating to or characteristic of Venice or its people
+vengeance	n: The act of taking revenge (harming someone in retaliation for something harmful that they have done) especially in the…
+vengeful	adj: Disposed to seek revenge or intended for revenge
+vengefully	adv: In a vindictive, revengeful manner
+vengefulness	n: A malevolent desire for revenge
+venial	adj: Warranting only temporal punishment	adj: Easily excused or forgiven
+venipuncture	n: (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip…
+venire	n: (law) a group of people summoned for jury service (from whom a jury will be chosen)
+venison	n: Meat from a deer used as food
+venogram	n: An X ray of a vein injected with a radiopaque contrast medium
+venography	n: Roentgenographic examination of veins
+venom	n: Toxin secreted by animals	n: Feeling a need to see others suffer
+venomed	adj: Full of malice or hate
+venomous	adj: Extremely poisonous or injurious	adj: Marked by deep ill will
+venomously	adv: In a very malevolent manner
+venose	adj: Having or showing markings that resemble veins
+venous	adj: Of or contained in or performing the function of the veins
+vent	n: A hole for the escape of gas or air	n: External opening of urinary or genital system of a lower vertebrate
+ventail	n: A medieval hood of mail suspended from a basinet to protect the head and neck
+vented	adj: Supplied with a vent or vents for intake of air or discharge of gases
+venter	n: A speaker who expresses or gives vent to a personal opinion or grievance	n: The region of the body of a vertebrate between the thorax and the pelvis
+ventilate	v: Expose to cool or cold air so as to cool or freshen	v: Expose to the circulation of fresh air so as to retard spoilage
+ventilated	adj: Exposed to air
+ventilation	n: The act of supplying fresh air and getting rid of foul air	n: A mechanical system in a building that provides fresh air
+ventilator	n: A device (such as a fan) that introduces fresh air or expels foul air	n: A device that facilitates breathing in cases of respiratory failure
+ventilatory	adj: Provided with ventilation or involving pulmonary ventilation
+venting	n: The act of venting
+ventral	adj: Toward or on or near the belly (front of a primate or lower surface of a lower animal)	adj: Nearest to or facing toward the axis of an organ or organism
+ventrally	adv: In a ventral location or direction
+ventricle	n: One of four connected cavities in the brain	n: A chamber of the heart that receives blood from an atrium and pumps it to the arteries
+ventricose	adj: Having a swelling on one side
+ventricular	adj: Of or relating to a ventricle (of the heart or brain)
+ventriculus	n: Thick-walled muscular pouch below the crop in many birds and reptiles for grinding food
+ventriloquism	n: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)
+ventriloquist	n: A performer who projects the voice into a wooden dummy
+ventriloquy	n: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)
+venture	n: Any venturesome undertaking especially one with an uncertain outcome	n: An investment that is very risky but could yield great profits
+venturer	n: A merchant who undertakes a trading venture (especially a venture that sends goods overseas)	n: A person who enjoys taking risks
+venturesome	adj: Disposed to venture or take risks
+venturesomeness	n: The trait of being adventurous
+venturi	n: A tube with a constriction
+venturous	adj: Disposed to venture or take risks
+venue	n: The scene of any event or action (especially the place of a meeting)	n: In law: the jurisdiction where a trial will be held
+venule	n: A minute vein continuous with a capillary
+veracious	adj: Habitually speaking the truth	adj: Precisely accurate
+veracity	n: Unwillingness to tell lies
+veranda	n: A porch along the outside of a building (sometimes partly enclosed)
+verandah	n: A porch along the outside of a building (sometimes partly enclosed)
+verapamil	n: A drug (trade names Calan and Isoptin) used as an oral or parenteral calcium blocker in cases of hypertension or…
+verb	n: The word class that serves as the predicate of a sentence	n: A content word that denotes an action, occurrence, or state of existence
+verbal	adj: Communicated in the form of words	adj: Of or relating to or formed from words in general
+verbalism	n: The communication (in speech or writing) of your beliefs or opinions	n: Overabundance of words
+verbalization	n: The words that are spoken in the activity of verbalization	n: The activity of expressing something in words
+verbalize	v: Be verbose	v: Express in speech
+verbalized	adj: Communicated in words
+verbalizer	n: Someone who expresses in language
+verbally	adv: As a verb	adv: By means of language
+verbatim	adj: In precisely the same words used by a writer or speaker	adv: Using exactly the same words
+verbena	n: Any of numerous tropical or subtropical American plants of the genus Verbena grown for their showy spikes of variously…
+verbiage	n: Overabundance of words	n: The manner in which something is expressed in words
+verbify	v: Make into a verb
+verbose	adj: Using or containing too many words
+verbosely	adv: In a verbose manner
+verboseness	n: An expressive style that uses excessive or empty words
+verbosity	n: An expressive style that uses excessive or empty words
+verboten	adj: Excluded from use or mention
+verdancy	n: The lush appearance of flourishing vegetation
+verdant	adj: Characterized by abundance of verdure
+verdict	n: (law) the findings of a jury on issues of fact submitted to it for decision
+verdigris	n: A blue or green powder used as a paint pigment	n: A green patina that forms on copper or brass or bronze that has been exposed to the air or water for long periods of…
+verdin	n: Very small yellow-headed titmouse of western North America
+verdure	n: Green foliage	n: The lush appearance of flourishing vegetation
+verge	n: A region marking a boundary	n: The limit beyond which something happens or changes
+verger	n: A church officer who takes care of the interior of the building and acts as an attendant (carries the verge) during…
+veridical	adj: Coinciding with reality
+verifiable	adj: Capable of being verified	adj: Capable of being tested (verified or falsified) by experiment or observation
+verification	n: Additional proof that something that was believed (some fact or hypothesis or theory) is correct	n: (law) an affidavit attached to a statement confirming the truth of that statement
+verified	adj: Proved to be true
+verifier	n: Someone who vouches for another or for the correctness of a statement
+verify	v: Confirm the truth of	v: Check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard
+verifying	adj: Serving to support or corroborate
+verily	adv: In truth
+verisimilar	adj: Appearing to be true or real
+verisimilitude	n: The appearance of truth
+veritable	adj: Often used as intensifiers	adj: Not counterfeit or copied
+verity	n: Conformity to reality or actuality	n: An enduring or necessary ethical or religious or aesthetic truth
+vermicelli	n: Pasta in strings thinner than spaghetti
+vermicide	n: An agent that kills worms (especially those in the intestines)
+vermicular	adj: Decorated with wormlike tracery or markings
+vermiculate	v: Decorate with wavy or winding lines	adj: Infested with or damaged (as if eaten) by worms
+vermiculated	adj: Decorated with wormlike tracery or markings
+vermiculation	n: The process of wavelike muscle contractions of the alimentary tract that moves food along	n: A decoration consisting of wormlike carvings
+vermiform	adj: Resembling a worm
+vermifuge	n: A medication capable of causing the evacuation of parasitic intestinal worms
+vermilion	n: A variable color that is vivid red but sometimes with an orange tinge	v: Color vermilion
+vermillion	adj: Of a vivid red to reddish-orange color
+vermin	n: An irritating or obnoxious person	n: Any of various small animals or insects that are pests
+verminous	adj: Of the nature of vermin
+vermis	n: The narrow central part of the cerebellum between the two hemispheres
+vermouth	n: Any of several white wines flavored with aromatic herbs
+vernacular	n: A characteristic language of a particular group (as among thieves)	n: The everyday speech of the people (as distinguished from literary language)
+vernal	adj: Suggestive of youth	adj: Of or characteristic of or occurring in spring
+vernation	n: (botany) the arrangement of young leaves in a leaf bud before it opens
+vernier	n: A small movable scale that slides along a main scale
+vernix	n: A white cheeselike protective material that covers the skin of a fetus
+veronica	n: Any plant of the genus Veronica
+verruca	n: (pathology) a firm abnormal elevated blemish on the skin
+verrucose	adj: (of skin) covered with warts or projections that resemble warts
+versant	n: The side or slope of a mountain
+versatile	adj: Having great diversity or variety	adj: Changeable or inconstant
+versatility	n: Having a wide variety of skills
+verse	n: Literature in metrical form	n: A piece of poetry
+versed	n: An injectable form of benzodiazepine (trade name Versed) useful for sedation and for reducing pain during…	adj: Thoroughly acquainted through study or experience
+versicle	n: A short verse said or sung by a priest or minister in public worship and followed by a response from the congregation
+versification	n: A metrical adaptation of something (e.g., of a prose text)	n: The form or metrical composition of a poem
+versifier	n: A writer who composes rhymes
+versify	v: Compose verses or put into verse
+version	n: An interpretation of a matter from a particular viewpoint	n: Something a little different from others of the same type
+verso	n: Left-hand page	n: The side of a coin or medal that does not bear the principal design
+verst	n: A Russian unit of length (1.067 km)
+vertebra	n: One of the bony segments of the spinal column
+vertebral	adj: Of or relating to or constituting vertebrae
+vertebrate	n: Animals having a bony or cartilaginous skeleton with a segmented spinal column and a large brain enclosed in a skull…	adj: Having a backbone or spinal column
+vertex	n: The point of intersection of lines or the point opposite the base of a figure	n: The highest point (of something)
+vertical	n: Something that is oriented vertically	n: A vertical structural member as a post or stake
+verticality	n: Position at right angles to the horizon
+vertically	adv: In a vertical direction
+verticalness	n: Position at right angles to the horizon
+verticil	n: A whorl of leaves growing around a stem
+verticillate	adj: Forming one or more whorls (especially a whorl of leaves around a stem)
+vertiginous	adj: Having or causing a whirling sensation
+vertigo	n: A reeling sensation
+vertu	n: Love of or taste for fine objects of art	n: Artistic quality
+vervain	n: Any of numerous tropical or subtropical American plants of the genus Verbena grown for their showy spikes of variously…
+verve	n: An energetic style
+vervet	n: South African monkey with black face and hands
+very	adj: Precisely as stated	adj: Being the exact same one
+vesica	n: A distensible membranous sac (usually containing liquid or gas)
+vesical	adj: Of or relating to a bladder (especially the urinary bladder)
+vesicant	n: A chemical agent that causes blistering (especially mustard gas)	adj: Causing blisters
+vesicate	v: Get blistered
+vesicle	n: A small anatomically normal sac or bladderlike structure (especially one containing fluid)
+vesicular	adj: Of or relating to or involving vesicles
+vesiculate	v: Become vesicular or full of air cells	v: Cause to become vesicular or full of air cells
+vesiculation	n: The formation of vesicles in or beneath the skin
+vesper	n: A late afternoon or evening worship service
+vespers	n: The sixth of the seven canonical hours of the divine office
+vespid	n: Mostly social nest-building wasps
+vessel	n: A tube in which a body fluid circulates	n: A craft designed for water transportation
+vest	n: A man's sleeveless garment worn underneath a coat	n: A collarless men's undergarment for the upper part of the body
+vestal	n: A chaste woman	adj: Of or relating to Vesta
+vested	adj: Fixed and absolute and without contingency
+vestiary	adj: Relating to clothing (especially vestments)
+vestibular	adj: Relating to the sense of equilibrium
+vestibule	n: A large entrance or reception room or area	n: Any of various bodily cavities leading to another cavity (as of the ear or vagina)
+vestige	n: An indication that something has been present
+vestigial	adj: Not fully developed in mature animals
+vestment	n: Gown (especially ceremonial garments) worn by the clergy
+vestmental	adj: Of or relating to or resembling a vestment
+vestry	n: In the Protestant Episcopal Church: a committee elected by the congregation to work with the churchwardens in managing…	n: A room in a church where sacred vessels and vestments are kept or meetings are held
+vestryman	n: A man who is a member of a church vestry
+vesture	n: Something that covers or cloaks like a garment	n: A covering designed to be worn on a person's body
+vet	n: A doctor who practices veterinary medicine	n: A person who has served in the armed forces
+vetch	n: Any of various climbing plants of the genus Vicia having pinnately compound leaves that terminate in tendrils and…
+vetchling	n: Any of various small plants of the genus Lathyrus
+veteran	n: A serviceman who has seen considerable active service	n: A person who has served in the armed forces
+veterinarian	n: A doctor who practices veterinary medicine
+veterinary	n: A doctor who practices veterinary medicine	adj: Of or relating to veterinarians or veterinary medicine
+veto	n: A vote that blocks a decision	n: The power or right to prohibit or reject a proposed or intended act (especially the power of a chief executive to…
+vex	v: Cause annoyance in	v: Disturb the peace of mind of
+vexation	n: Anger produced by some annoying irritation	n: The psychological state of being irritated or annoyed
+vexatious	adj: Causing irritation or annoyance
+vexatiously	adv: In a vexatious manner
+vexed	adj: Troubled persistently especially with petty annoyances	adj: Causing difficulty in finding an answer or solution
+vexer	n: Someone given to teasing (as by mocking or stirring curiosity)
+vexing	adj: Extremely annoying or displeasing	adj: Causing irritation or annoyance
+vi	Roman numeral for 6.
+viability	n: (of living things) capable of normal growth and development	n: Capable of being done in a practical and useful way
+viable	adj: Capable of being done with means at hand and circumstances as they are	adj: Capable of life or normal growth and development
+viaduct	n: Bridge consisting of a series of arches supported by piers used to carry a road (or railroad) over a valley
+vial	n: A small bottle that contains a drug (especially a sealed sterile container for injection by needle)
+viand	n: A choice or delicious dish
+viands	n: A stock or supply of foods
+viatical	adj: Pertaining to the purchase of insurance policies from terminally ill policy holders
+vibe	n: A distinctive emotional aura experienced instinctively
+vibes	n: A percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce…
+vibist	n: A musician who plays the vibraphone
+vibraharp	n: A percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce…
+vibrancy	n: Having the character of a loud deep sound
+vibrant	adj: Vigorous and animated	adj: Of sounds that are strong and resonating
+vibraphone	n: A percussion instrument similar to a xylophone but having metal bars and rotating disks in the resonators that produce…
+vibraphonist	n: A musician who plays the vibraphone
+vibrate	v: Shake, quiver, or throb	v: Move or swing from side to side regularly
+vibration	n: The act of vibrating	n: A shaky motion
+vibrational	adj: Of or relating to or characterized by vibration
+vibrato	n: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch
+vibrator	n: A mechanical device that vibrates	n: Mechanical device that produces vibratory motion
+vibratory	adj: Moving very rapidly to and fro or up and down
+vibrio	n: Curved rodlike motile bacterium
+vibrion	n: Curved rodlike motile bacterium
+vibrionic	adj: Caused by bacteria of the genus Vibrio
+vibrissa	n: A long stiff hair growing from the snout or brow of most mammals as e.g. a cat
+vicar	n: A Roman Catholic priest who acts for another higher-ranking clergyman	n: (Episcopal Church) a clergyman in charge of a chapel
+vicarage	n: An official residence provided by a church for its parson or vicar or rector
+vicarial	adj: Of or relating to or characteristic of a vicar
+vicariate	n: The religious institution under the authority of a vicar
+vicarious	adj: Experienced at secondhand	adj: Occurring in an abnormal part of the body instead of the usual site involved in that function
+vicariously	adv: Indirectly, as, by, or through a substitute
+vicarship	n: The religious institution under the authority of a vicar
+vice	n: Moral weakness	n: A specific form of evildoing
+vicegerent	n: Someone appointed by a ruler as an administrative deputy
+vicenary	adj: Of or relating to or based on 20
+vicennial	adj: Occurring once every 20 years
+viceregal	adj: Of or relating to a viceroy
+vicereine	n: Wife of a viceroy	n: Governor of a country or province who rules as the representative of his or her king or sovereign
+viceroy	n: Governor of a country or province who rules as the representative of his or her king or sovereign	n: Showy American butterfly resembling the monarch but smaller
+viceroyalty	n: A district or province governed by a viceroy
+viceroyship	n: The position of viceroy
+vichyssoise	n: A creamy potato soup flavored with leeks and onions
+vicinal	adj: Belonging to or limited to a vicinity
+vicinity	n: A surrounding or nearby region
+vicious	adj: (of persons or their actions) able or disposed to inflict pain or suffering	adj: Having the nature of vice
+viciously	adv: In a vicious manner
+viciousness	n: The trait of extreme cruelty
+vicissitude	n: A variation in circumstances or fortune at different times in your life or in the development of something	n: Mutability in life or nature (especially successive alternation from one condition to another)
+victim	n: An unfortunate person who suffers from some adverse circumstance	n: A person who is tricked or swindled
+victimise	v: Make a victim of	v: Punish unjustly
+victimised	adj: Of persons
+victimization	n: Adversity resulting from being made a victim	n: An act that exploits or victimizes someone (treats them unfairly)
+victimize	v: Make a victim of	v: Punish unjustly
+victimized	adj: Of persons
+victimizer	n: A person who victimizes others
+victor	n: A combatant who is able to defeat rivals	n: The contestant who wins the contest
+victorious	adj: Having won	adj: Experiencing triumph
+victoriously	adv: In a victorious manner
+victory	n: A successful ending of a struggle or contest
+victual	n: Any substance that can be used as food	v: Supply with food
+victualer	n: An innkeeper (especially British)	n: A supplier of victuals or supplies to an army
+victualler	n: An innkeeper (especially British)	n: A supplier of victuals or supplies to an army
+victuals	n: A stock or supply of foods	n: A source of materials to nourish the body
+vicuna	n: The wool of the vicuna	n: A soft wool fabric made from the fleece of the vicuna
+videlicet	adv: As follows
+video	n: The visible part of a television transmission	n: A recording of both the visual and audible components (especially one containing a recording of a movie or television…
+videocassette	n: A cassette for videotape
+videodisc	n: A digital recording (as of a movie) on an optical disk that can be played on a computer or a television set
+videodisk	n: A digital recording (as of a movie) on an optical disk that can be played on a computer or a television set
+videotape	n: A video recording made on magnetic tape	n: A relatively wide magnetic tape for use in recording visual images and associated sound
+vie	v: Compete for something
+view	n: A way of regarding situations or topics etc.	n: The visual percept of a region
+viewable	adj: Capable of being viewed
+viewer	n: A close observer	n: An optical device for viewing photographic transparencies
+viewers	n: The audience reached by television
+viewfinder	n: Optical device that helps a user to find the target of interest
+viewing	n: The display of a motion picture	n: A vigil held over a corpse the night before burial
+viewless	adj: Not having or expressing opinions or views
+viewpoint	n: A mental position from which things are viewed	n: A place from which something can be viewed
+vigesimal	adj: Relating to or based on the number twenty
+vigil	n: A period of sleeplessness	n: The rite of staying awake for devotional purposes (especially on the eve of a religious festival)
+vigilance	n: The process of paying close and continuous attention	n: Vigilant attentiveness
+vigilant	adj: Carefully observant or attentive
+vigilante	n: Member of a vigilance committee
+vigilantism	n: The actions of a vigilance committee in trying to enforce the laws
+vigilantly	adv: In a watchful manner
+vignette	n: A brief literary description	n: A photograph whose edges shade off gradually
+vigor	n: Forceful exertion	n: Active strength of body or mind
+vigorish	n: An exorbitant or unlawful rate of interest	n: A percentage (of winnings or loot or profit) taken by an operator or gangster
+vigorous	adj: Characterized by forceful and energetic action or activity	adj: Strong and active physically or mentally
+vigorously	adv: With vigor
+vigour	n: Forceful exertion	n: Active strength of body or mind
+vii	Roman numeral for 7.
+viii	Roman numeral for 8.
+viking	n: Any of the Scandinavian people who raided the coasts of Europe from the 8th to the 11th centuries
+vile	adj: Morally reprehensible	adj: Causing or able to cause nausea
+vilely	adv: In a vile manner
+vileness	n: The quality of being wicked	n: The quality of being disgusting to the senses or emotions
+vilification	n: Slanderous defamation	n: A rude expression intended to offend or hurt
+vilifier	n: One who attacks the reputation of another by slander or libel
+vilify	v: Spread negative information about
+vilipend	v: Belittle
+villa	n: Detached or semidetached suburban house	n: Country house in ancient Rome consisting of residential quarters and farm buildings around a courtyard
+village	n: A community of people smaller than a town	n: A settlement smaller than a town
+villager	n: One who has lived in a village most of their life
+villain	n: A wicked or evil person	n: The principal bad character in a film or work of fiction
+villainess	n: A woman villain
+villainous	adj: Extremely wicked
+villainousness	n: The quality of evil by virtue of villainous behavior
+villainy	n: The quality of evil by virtue of villainous behavior	n: A criminal or vicious act
+villein	n: (Middle Ages) a person who is bound to the land and owned by the feudal lord
+villus	n: A minute hairlike projection on mucous membrane
+vim	n: A healthy capacity for vigorous activity	n: An imaginative lively style (especially style of writing)
+vinaceous	adj: Of or relating to wine	adj: Of the color of wine
+vinaigrette	n: Oil and vinegar with mustard and garlic
+vinblastine	n: Periwinkle plant derivative used as an antineoplastic drug (trade name Velban) that disrupts cell division
+vincible	adj: Susceptible to being defeated
+vincristine	n: Periwinkle plant derivative used as an antineoplastic drug (trade name Oncovin)
+vindicate	v: Show to be right by providing justification or proof	v: Maintain, uphold, or defend
+vindicated	adj: Freed from any question of guilt
+vindication	n: The act of vindicating or defending against criticism or censure etc.	n: The justification for some act or belief
+vindicator	n: A person who argues to defend or justify some policy or institution
+vindicatory	adj: Of or relating to or having the nature of retribution	adj: Given or inflicted in requital according to merits or deserts
+vindictive	adj: Disposed to seek revenge or intended for revenge	adj: Showing malicious ill will and a desire to hurt
+vindictively	adv: In a vindictive, revengeful manner
+vindictiveness	n: A malevolent desire for revenge
+vine	n: A plant with a weak stem that derives support from climbing, twining, or creeping along a surface
+vinegar	n: Sour-tasting liquid produced usually by oxidation of the alcohol in wine or cider and used as a condiment or food…	n: Dilute acetic acid
+vinegarish	adj: Tasting or smelling like vinegar	adj: Having a sour disposition
+vinegary	adj: Tasting or smelling like vinegar	adj: Having a sour disposition
+vinery	n: A farm of grapevines where wine grapes are produced
+vineyard	n: A farm of grapevines where wine grapes are produced
+viniculture	n: The cultivation of grapes and grape vines
+vinifera	n: Common European grape cultivated in many varieties
+vinification	n: The process whereby fermentation changes grape juice into wine
+vinify	v: Convert a juice into wine by fermentation
+vino	n: Fermented juice (of grapes especially)
+vinous	adj: Of or relating to wine
+vintage	n: A season's yield of wine from a vineyard	n: The oldness of wines
+vintager	n: A person who harvests grapes for making wine
+vintner	n: Someone who sells wine	n: Someone who makes wine
+vinyl	n: A univalent chemical radical derived from ethylene	n: Shiny and tough and flexible plastic
+viol	n: Any of a family of bowed stringed instruments that preceded the violin family
+viola	n: Any of the numerous plants of the genus Viola	n: Large genus of flowering herbs of temperate regions
+violable	adj: Capable of being violated
+violate	v: Fail to agree with	v: Act in disregard of laws, rules, contracts, or promises
+violated	adj: Treated irreverently or sacrilegiously
+violation	n: A crime less serious than a felony	n: An act that disregards an agreement or a right
+violative	adj: Violating or tending to violate or offend against
+violator	n: Someone who violates the law	n: Someone who assaults others sexually
+violence	n: An act of aggression (as one against a person who resists)	n: The property of being wild or turbulent
+violent	adj: Acting with or marked by or resulting from great force or energy or emotional intensity	adj: Effected by force or injury rather than natural causes
+violently	adv: In a violent manner
+violet	n: Any of numerous low-growing violas with small flowers	n: A variable color that lies beyond blue in the spectrum
+violin	n: Bowed stringed instrument that is the highest member of the violin family
+violinist	n: A musician who plays the violin
+violist	n: A musician who plays the viola
+violoncellist	n: Someone who plays a violoncello
+violoncello	n: A large stringed instrument
+viomycin	n: A basic polypeptide antibiotic (trade name Viocin) administered intramuscularly (along with other drugs) in the…
+viper	n: Venomous Old World snakes characterized by hollow venom-conducting fangs in the upper jaw
+virago	n: A noisy or scolding or domineering woman	n: A large strong and aggressive woman
+viral	adj: Relating to or caused by a virus
+viremia	n: The presence of a virus in the blood stream
+vireo	n: Any of various small insectivorous American birds chiefly olive-grey in color
+virga	n: Light wispy precipitation that evaporates before it reaches the ground (especially when the lower air is low in…
+virgin	n: A person who has never had sex	n: (astrology) a person who is born while the sun is in Virgo
+virginal	n: A legless rectangular harpsichord	adj: Characteristic of a virgin or virginity
+virginity	n: The condition or quality of being a virgin
+virgule	n: A punctuation mark (/) used to separate related items of information
+viricidal	adj: Tending to destroy viruses
+viricide	n: An agent (physical or chemical) that inactivates or destroys viruses
+viridity	n: Green color or pigment
+virile	adj: Characterized by energy and vigor	adj: Characteristic of a man
+virilism	n: The development of male secondary sexual characteristics in a female (or prematurely in a young boy)
+virility	n: The masculine property of being capable of copulation and procreation	n: The trait of being manly
+virion	n: (virology) a complete viral particle
+viroid	n: The smallest of viruses
+virological	adj: Of or relating to the science of virology
+virologist	n: A specialist in virology
+virology	n: The branch of medical science that studies viruses and viral diseases
+virtu	n: Love of or taste for fine objects of art	n: Artistic quality
+virtual	adj: Being actually such in almost every respect	adj: Existing in essence or effect though not in actual fact
+virtually	adv: In essence or effect but not in fact	adv: (of actions or states) slightly short of or not quite accomplished
+virtue	n: The quality of doing what is right and avoiding what is wrong	n: Any admirable quality or attribute
+virtuosity	n: Technical skill or fluency or style exhibited by a virtuoso
+virtuoso	n: Someone who is dazzlingly skilled in any field	n: A musician who is a consummate master of technique and artistry
+virtuous	adj: Morally excellent	adj: In a state of sexual virginity
+virtuously	adv: In a moral manner	adv: In a chaste and virtuous manner
+virtuousness	n: The quality of doing what is right and avoiding what is wrong
+virucidal	adj: Tending to destroy viruses
+virucide	n: An agent (physical or chemical) that inactivates or destroys viruses
+virulence	n: Extreme harmfulness (as the capacity of a microorganism to cause disease)	n: Extreme hostility
+virulency	n: Extreme harmfulness (as the capacity of a microorganism to cause disease)	n: Extreme hostility
+virulent	adj: Extremely poisonous or injurious	adj: Infectious
+virulently	adv: In a virulent manner
+virus	n: (virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts	n: A harmful or corrupting agency
+visa	n: An endorsement made in a passport that allows the bearer to enter the country issuing it	v: Provide (a passport) with a visa
+visage	n: The human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is British)	n: The appearance conveyed by a person's face
+visaged	adj: Having a face or visage as specified
+viscacha	n: Gregarious burrowing rodent larger than the chinchillas
+viscera	n: Internal organs collectively (especially those in the abdominal cavity)
+visceral	adj: Relating to or affecting the viscera	adj: Obtained through intuition rather than from reasoning or observation
+viscerally	adv: In an unreasoning visceral manner	adv: In the viscera
+viscid	adj: Having the sticky properties of an adhesive
+viscidity	n: The property of being cohesive and sticky
+viscidly	adv: In a sticky viscid manner
+viscoelastic	adj: Having viscous as well as elastic properties
+viscometer	n: A measuring instrument for measuring viscosity
+viscometric	adj: Of or relating to the measurement of viscosity
+viscometry	n: The measurement of viscosity
+viscose	n: A cellulose ester obtained by treating cellulose with caustic soda	n: A rayon fabric made from viscose (cellulose xanthate) fibers
+viscosimeter	n: A measuring instrument for measuring viscosity
+viscosimetric	adj: Of or relating to the measurement of viscosity
+viscosity	n: Resistance of a liquid to shear forces (and hence to flow)
+viscount	n: (in various countries) a son or younger brother or a count	n: A British peer who ranks below an earl and above a baron
+viscountcy	n: The dignity or rank or position of a viscount or viscountess	n: The title of a viscount
+viscountess	n: A wife or widow of a viscount	n: A noblewoman holding the rank of viscount in her own right
+viscounty	n: The dignity or rank or position of a viscount or viscountess	n: The domain controlled by a viscount or viscountess
+viscous	adj: Having a relatively high resistance to flow	adj: Having the sticky properties of an adhesive
+viscousness	n: Resistance of a liquid to shear forces (and hence to flow)
+viscus	n: A main organ that is situated inside the body
+vise	n: A holding device attached to a workbench
+viselike	adj: Clamped as in a vise
+visibility	n: Quality or fact or degree of being visible	n: Degree of exposure to public notice
+visible	adj: Capable of being seen	adj: Obvious to the eye
+visibleness	n: Quality or fact or degree of being visible
+visibly	adv: In a visible manner	adv: So as to be visible
+vision	n: A vivid mental image	n: The ability to see
+visionary	n: A person given to fanciful speculations and enthusiasms with little regard for what is actually possible	n: A person with unusual powers of foresight
+visit	n: The act of going to see some person or place or thing for a short time	n: A meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice
+visitant	n: Someone who visits
+visitation	n: An annoying or frustrating or catastrophic event	n: Any disaster or catastrophe
+visiting	n: The activity of making visits
+visitor	n: Someone who visits
+visor	n: A piece of armor plate (with eye slits) fixed or hinged to a medieval helmet to protect the face	n: A brim that projects to the front to shade the eyes
+visored	adj: Having or provided with a visor or a visor of a particular kind
+vista	n: The visual percept of a region
+visual	adj: Relating to or using sight	adj: Visible
+visualise	v: View the outline of by means of an X-ray	v: Form a mental picture of something that is invisible or abstract
+visualised	adj: Seen in the mind as a mental image
+visualization	n: A mental image that is similar to a visual perception
+visualize	v: Imagine	v: View the outline of by means of an X-ray
+visualized	adj: Seen in the mind as a mental image
+visualizer	n: One whose prevailing mental imagery is visual
+visually	adv: With respect to vision
+vital	adj: Urgently needed	adj: Performing an essential function in the living body
+vitalise	v: Give life to	v: Make more lively or vigorous
+vitalism	n: (philosophy) a doctrine that life is a vital principle distinct from physics and chemistry
+vitalist	n: One who believes in vitalism
+vitality	n: An energetic style	n: A healthy capacity for vigorous activity
+vitalization	n: The state of being vitalized and filled with life
+vitalize	v: Give life to	v: Make more lively or vigorous
+vitalizing	adj: Giving or having the power to give life and spirit
+vitally	adv: To a vital degree
+vitals	n: A bodily organ that is essential for life
+vitamin	n: Any of a group of organic substances essential in small quantities to normal metabolism
+vitellus	n: Nutritive material of an ovum stored for the nutrition of an embryo (especially the yellow mass of a bird or reptile…
+vitiate	v: Corrupt morally or by intemperance or sensuality	v: Make imperfect
+vitiated	adj: Impaired by diminution	adj: Ruined in character or quality
+vitiation	n: Nullification by the destruction of the legal force
+viticulture	n: The cultivation of grapes and grape vines
+viticulturist	n: A cultivator of grape vine
+vitiligo	n: An acquired skin disease characterized by patches of unpigmented skin (often surrounded by a heavily pigmented border)
+vitrectomy	n: A surgical procedure that removes the vitreous humor and replace it with saline solution
+vitreous	adj: Of or relating to or constituting the vitreous humor of the eye	adj: Relating to or resembling or derived from or containing glass
+vitrification	n: A vitrified substance	n: The process of becoming vitreous
+vitrified	adj: (of ceramics) having the surface made shiny and nonporous by fusing a vitreous solution to it
+vitrify	v: Change into glass or a glass-like substance by applying heat	v: Undergo vitrification
+vitrine	n: A glass container used to store and display items in a shop or museum or home
+vitriol	n: (H2SO4) a highly corrosive acid made from sulfur dioxide	n: Abusive or venomous language used to express blame or censure or bitter deep-seated ill will
+vitriolic	adj: Harsh or corrosive in tone	adj: Of a substance, especially a strong acid
+vituperate	v: Spread negative information about
+vituperation	n: Abusive or venomous language used to express blame or censure or bitter deep-seated ill will
+vituperative	adj: Marked by harshly abusive criticism
+viva	n: An examination conducted by spoken communication
+vivace	adj: (of tempo) very fast and lively	adv: Lively, in music
+vivacious	adj: Vigorous and animated
+vivaciously	adv: With vivacity
+vivacity	n: Characterized by high spirits and animation
+vivarium	n: An indoor enclosure for keeping and raising living animals and plants and observing them under natural conditions
+vivid	adj: Evoking lifelike images within the mind	adj: Having the clarity and freshness of immediate experience
+vividly	adv: In a vivid manner
+vividness	n: Interest and variety and intensity	n: Chromatic purity: freedom from dilution with white and hence vivid in hue
+vivification	n: Quality of being active or spirited or alive and vigorous	n: The activity of giving vitality and vigour to something
+vivify	v: Give new life or energy to	v: Make more striking or animated
+viviparous	adj: Producing living young (not eggs)
+vivisect	v: Cut (a body) open while still alive
+vivisection	n: The act of operating on living animals (especially in scientific research)
+vivisectionist	n: A biologist who cuts open live animals for research
+vixen	n: A malicious woman with a fierce temper	n: A female fox
+vixenish	adj: Shrewish and malicious
+vizier	n: A high official in a Muslim government (especially in the Ottoman Empire)
+viziership	n: The position of vizier
+vizor	n: A piece of armor plate (with eye slits) fixed or hinged to a medieval helmet to protect the face	n: A brim that projects to the front to shade the eyes
+vizsla	n: Hungarian hunting dog resembling the Weimaraner but having a rich deep red coat
+vocable	n: A word that is spoken aloud
+vocabulary	n: A listing of the words used in some enterprise	n: A language user's knowledge of words
+vocal	n: Music intended to be performed by one or more singers, usually with instrumental accompaniment	n: A short musical composition with words
+vocalic	adj: Being or containing or characterized by vowels	adj: Relating to or associated with or containing a vowel
+vocalise	v: Sing (each note a scale or in a melody) with the same vowel	v: Pronounce as a vowel
+vocalism	n: The system of vowels used in a particular language	n: The sound made by the vibration of vocal folds modified by the resonance of the vocal tract
+vocalist	n: A person who sings
+vocalization	n: The sound made by the vibration of vocal folds modified by the resonance of the vocal tract	n: The use of uttered sounds for auditory communication
+vocalize	v: Utter with vibrating vocal chords	v: Sing (each note a scale or in a melody) with the same vowel
+vocalizer	n: An organism that can utter vocal sounds	n: A person who sings
+vocalizing	n: The act of singing vocal music
+vocally	adv: In a vocal manner
+vocation	n: The particular occupation for which you are trained	n: A body of people doing the same kind of work
+vocational	adj: Of or relating to a vocation or occupation
+vocationally	adv: Affecting the pursuit of a vocation or occupation
+vocative	n: The case (in some inflected languages) used when the referent of the noun is being addressed	adj: Relating to a case used in some languages
+vociferate	v: Utter in a very loud voice
+vociferation	n: A loud utterance
+vociferator	n: A loud and vehement speaker (usually in protest)
+vociferous	adj: Conspicuously and offensively loud
+vociferously	adv: In a vociferous manner
+vodka	n: Unaged colorless liquor originating in Russia
+vodoun	n: A religious cult practiced chiefly in Caribbean countries (especially Haiti)
+vogue	n: The popular taste at a given time	n: A current state of general acceptance and use
+voguish	adj: Elegant and stylish	adj: In accord with the latest fad
+voice	n: The distinctive quality or pitch or condition of a person's speech	n: The sound made by the vibration of vocal folds modified by the resonance of the vocal tract
+voiced	adj: Produced with vibration of the vocal cords
+voiceless	adj: Produced without vibration of the vocal cords	adj: Deprived of the rights of citizenship especially the right to vote
+voicelessness	n: A disorder of the vocal organs that results in the loss of voice	n: Speaking softly without vibration of the vocal cords
+voiceprint	n: Biometric identification by electronically recording and graphically representing a person's voice
+voicer	n: Someone who regulates the tone of organ pipes	n: A speaker who voices an opinion
+voicing	n: The act of adjusting an organ pipe (or wind instrument) so that it conforms to the standards of tone and pitch and color
+void	n: The state of nonexistence	n: An empty area or space
+voidable	adj: Capable of being rescinded or voided
+voidance	n: The act of removing the contents of something
+voider	n: An official who can invalidate or nullify	n: A person who defecates
+voiding	n: The bodily process of discharging waste matter
+voile	n: A light semitransparent fabric
+volant	adj: With wings extended in a flying position
+volar	adj: Relating to the palm of the hand or the sole of the foot
+volatile	n: A volatile substance	adj: Evaporating readily at normal temperatures and pressures
+volatilise	v: Make volatile
+volatilised	adj: Converted into a gas or vapor
+volatility	n: The property of changing readily from a solid or liquid to a vapor	n: The trait of being unpredictably irresolute
+volatilizable	adj: (used of substances) capable of being volatilized
+volatilize	v: Make volatile
+volatilized	adj: Converted into a gas or vapor
+volcanic	adj: Relating to or produced by or consisting of volcanoes	adj: Explosively unstable
+volcanically	adv: By or like volcanoes
+volcanism	n: The phenomena associated with volcanic activity
+volcano	n: A fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt	n: A mountain formed by volcanic material
+volcanology	n: The branch of geology that studies volcanoes
+vole	n: Any of various small mouselike rodents of the family Cricetidae (especially of genus Microtus) having a stout…
+volition	n: The capability of conscious choice and decision and intention	n: The act of making a choice
+volitional	adj: With deliberate intention
+volley	n: Rapid simultaneous discharge of firearms	n: A tennis return made by hitting the ball before it bounces
+volleyball	n: A game in which two teams hit an inflated ball over a high net using their hands	n: An inflated ball used in playing volleyball
+volt	n: A unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere…
+voltage	n: The rate at which energy is drawn from a source that produces a flow of electricity in a circuit	n: The difference in electrical charge between two points in a circuit expressed in volts
+voltaic	n: A group of Niger-Congo languages spoken primarily in southeastern Mali and northern Ghana	adj: Pertaining to or producing electric current by chemical action
+voltmeter	n: Meter that measures the potential difference between two points
+volubility	n: The quality of being facile in speech and writing
+voluble	adj: Marked by a ready flow of speech
+volubly	adv: In a chatty manner
+volume	n: The amount of 3-dimensional space occupied by an object	n: The property of something that is great in magnitude
+volumed	adj: (often used in combination) consisting of or having a given number or kind of volumes	adj: Formed or rising in rounded masses
+volumeter	n: A meter to measure the volume of gases, liquids, or solids (either directly or by displacement)
+volumetric	adj: Of or relating to measurement by volume
+volumetrically	adv: With respect to volume
+voluminosity	n: Greatness of volume
+voluminous	adj: Large in volume or bulk	adj: Marked by repeated turns and bends
+voluminousness	n: Greatness of volume
+voluntarily	adv: Out of your own free will
+voluntary	n: (military) a person who freely enlists for service	n: Composition (often improvised) for a solo instrument (especially solo organ) and not a regular part of a religious…
+volunteer	n: (military) a person who freely enlists for service	n: A person who performs voluntary work
+voluptuary	n: A person addicted to luxury and pleasures of the senses	adj: Displaying luxury and furnishing gratification to the senses
+voluptuous	adj: Having strong sexual appeal	adj: (of a woman's body) having a large bosom and pleasing curves
+voluptuously	adv: In a shapely and voluptuous manner	adv: In an indulgently voluptuous manner
+voluptuousness	n: The quality of being attractive and exciting (especially sexually exciting)	n: The property of being lush and abundant and a pleasure to the senses
+volute	n: Ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center	n: A structure consisting of something wound in a continuous series of loops
+voluted	adj: In the shape of a coil
+volution	n: A rolling or revolving motion
+volva	n: Cuplike structure around the base of the stalk of certain fungi
+volvulus	n: Abnormal twisting of the intestines (usually in the area of the ileum or sigmoid colon) resulting in intestinal…
+vomer	n: Thin trapezoidal bone of the skull forming the posterior and inferior parts of the nasal septum
+vomit	n: The matter ejected in vomiting	n: A medicine that induces nausea and vomiting
+vomiter	n: A person who vomits
+vomiting	n: The reflex act of ejecting the contents of the stomach through the mouth
+vomitive	n: A medicine that induces nausea and vomiting
+vomitory	n: An entrance to an amphitheater or stadium
+vomitus	n: The matter ejected in vomiting
+voodoo	n: A charm superstitiously believed to embody magical powers	n: (Haiti) followers of a religion that involves witchcraft and animistic deities
+voodooism	n: A religious cult practiced chiefly in Caribbean countries (especially Haiti)
+voracious	adj: Excessively greedy and grasping	adj: Devouring or craving food in great quantities
+voraciously	adv: In an eagerly voracious manner
+voraciousness	n: Excessive desire to eat	n: Extreme gluttony
+voracity	n: Excessive desire to eat	n: Extreme gluttony
+vortex	n: The shape of something rotating rapidly	n: A powerful circular current of water (usually the result of conflicting tides)
+vorticella	n: Any of various protozoa having a transparent goblet-shaped body with a retractile stalk
+votary	n: One bound by vows to a religion or life of worship or service	n: A priest or priestess (or consecrated worshipper) in a non-Christian religion or cult
+vote	n: A choice that is made by counting the number of people in favor of each alternative	n: The opinion of a group as determined by voting
+voteless	adj: Deprived of the rights of citizenship especially the right to vote
+voter	n: A citizen who has a legal right to vote
+voting	n: A choice that is made by counting the number of people in favor of each alternative
+votive	adj: Dedicated in fulfillment of a vow
+vouch	v: Give personal assurance	v: Give surety or assume responsibility
+vouchee	n: (law) a person called into court to defend a title
+voucher	n: Someone who vouches for another or for the correctness of a statement	n: A document that serves as evidence of some expenditure
+vouchsafe	v: Grant in a condescending manner
+voussoir	n: Wedge-shaped stone building block used in constructing an arch or vault
+vouvray	n: A dry white French wine (either still or sparkling) made in the Loire valley
+vow	n: A solemn pledge (to oneself or to another or to a deity) to do something or to behave in a certain manner	v: Make a vow
+vowel	n: A speech sound made with the vocal tract open	n: A letter of the alphabet standing for a spoken vowel
+vowelize	v: Pronounce as a vowel
+vower	n: Someone who makes a solemn promise to do something or behave in a certain way
+vox	n: The sound made by the vibration of vocal folds modified by the resonance of the vocal tract
+voyage	n: An act of traveling by water	n: A journey to some distant place
+voyager	n: A traveler to a distant land (especially one who travels by sea)
+voyeur	n: A viewer who enjoys seeing the sex acts or sex organs of others
+voyeurism	n: A perversion in which a person receives sexual gratification from seeing the genitalia of others or witnessing others'…
+voyeuristic	adj: Of or relating to voyeurs or voyeurism
+voyeuristically	adv: Like a voyeur
+vroom	n: The roaring sound made by a motor that is running at high speed	v: Make a loud, roaring sound, as of a car engine, while moving
+vulcanisation	n: Process of treating rubber or rubberlike materials with sulphur at great heat to improve elasticity and strength or to…
+vulcanise	v: Undergo vulcanization	v: Subject to vulcanization
+vulcanised	adj: (used of rubber) treated by a chemical or physical process to improve its properties (hardness and strength and odor…
+vulcanization	n: Process of treating rubber or rubberlike materials with sulphur at great heat to improve elasticity and strength or to…
+vulcanize	v: Undergo vulcanization	v: Subject to vulcanization
+vulcanized	adj: (used of rubber) treated by a chemical or physical process to improve its properties (hardness and strength and odor…
+vulcanizer	n: Someone who vulcanizes rubber to improve its strength and resiliency
+vulcanology	n: The branch of geology that studies volcanoes
+vulgar	adj: Lacking refinement or cultivation or taste	adj: Of or associated with the great masses of people
+vulgarian	n: A vulgar person (especially someone who makes a vulgar display of wealth)
+vulgarise	v: Cater to popular taste to make popular and present to the general public	v: Debase and make vulgar
+vulgarism	n: An offensive or indecent word or phrase	n: The quality of lacking taste and refinement
+vulgarity	n: The quality of lacking taste and refinement
+vulgarization	n: The act of rendering something coarse and unrefined	n: The act of making something attractive to the general public
+vulgarize	v: Cater to popular taste to make popular and present to the general public	v: Debase and make vulgar
+vulgarizer	n: Someone who makes something vulgar	n: Someone who makes attractive to the general public
+vulgarly	adv: In a smutty manner
+vulnerability	n: The state of being vulnerable or exposed	n: Susceptibility to injury or attack
+vulnerable	adj: Susceptible to attack	adj: Susceptible to criticism or persuasion or temptation
+vulnerably	adv: In a vulnerable manner
+vulpine	adj: Resembling or characteristic of a fox
+vulture	n: Any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion	n: Someone who attacks in search of booty
+vulturine	adj: Living by preying on other animals especially by catching living prey
+vulturous	adj: Living by preying on other animals especially by catching living prey
+vulva	n: External parts of the female genitalia
+vulval	adj: Of or relating to the vulva
+vulvar	adj: Of or relating to the vulva
+vulvitis	n: Inflammation of the vulva
+vulvovaginitis	n: Inflammation of the vulva and the vagina
